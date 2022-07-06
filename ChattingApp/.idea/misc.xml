@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable-v24/ic_undraw_messaging_fun_re_vic9__1_.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable-v24/ic_wave.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/btn_primary.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/circleimagedrawable.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/edit.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/editbackground.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/exit.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/frameback.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/message_box_background.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/recievebackground.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/rounduser.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/sendbackground.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/shape.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/stackoverflowsabackground.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/drawable/userround.xml" value="0.2526041666666667" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/activity_chat.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/activity_log_in.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/activity_sign_up.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/fragment_blank.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/fragment_edit.xml" value="0.2" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/fragment_news.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/fragment_profile.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/nav_header.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/recieve.xml" value="0.2" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/sent.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/layout/user_layout.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/menu/menu.xml" value="0.23645833333333333" />
+        <entry key="..\:/CODDING &amp;CLASS/ChattingApp/app/src/main/res/menu/navmenu.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
